@@ -1,4 +1,4 @@
-# 獅尾骨腿黑體 Swei Bone Sans
+# 獅尾骨腿黑體 Swei Bone Leg
 
 獅尾骨腿黑體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的筆觸變骨頭改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
